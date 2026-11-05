@@ -17,7 +17,7 @@ Tower Defense в духе классических карт Warcraft III: The Fr
 - Игровой процесс и идеи для обсуждения. [Game Flow](docs/GAME_FLOW.md) · [Идеи систем](docs/SYSTEM_IDEAS.md)
 - Контент и баланс. [Башни](docs/TOWERS.md) · [Враги](docs/ENEMIES.md) · [Предметы](docs/ITEMS.md) · [Формулы урона](docs/DAMAGE_FORMULAS.md) · [Экономика](docs/ECONOMY.md) · [Руны](docs/RUNES.md)
 - Устройство проекта и правила работы. [Структура и совместная работа](docs/DEVELOPMENT.md) · [AGENTS.md](AGENTS.md)
-- Согласование ТЗ. [Открытые вопросы](docs/QUESTIONS.md) · [Журнал решений](docs/DECISIONS.md)
+- План работы и согласование ТЗ. [План](docs/ROADMAP.md) · [Открытые вопросы](docs/QUESTIONS.md) · [Журнал решений](docs/DECISIONS.md)
 
 Разработчик по концепции и аналитике ведёт материалы в Notion, технический разработчик переносит их в `docs/`. Источник и статус данных указаны в тематических файлах. [Проект в Notion](https://living-metal-4f5.notion.site/Runes-Relics-TD-40e8416afec480a3971cdc2e17fe66a8) · [Порядок переноса](AGENTS.md#работа-в-notion-и-репозитории)
 
